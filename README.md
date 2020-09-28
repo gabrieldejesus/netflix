@@ -1,11 +1,29 @@
-## Available Scripts
+# Netflix
 
-In the project directory, you can run:
+A clone of the netflix home page with api consumption, movie listings and more.
 
-### `yarn start`
+![](/web-preview.gif)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Deployment in
+Coming soon...
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Release history
+
+* 0.0.1
+    * Work in `progress`
+
+## Meta
+
+Gabriel de Jesus – [My portfolio](https://www.gabrieldesenvolvedor.com/) – oi@gabrieldesenvolvedor.com
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+[https://github.com/devgabrieldejesus/netflix](https://github.com/devgabrieldejesus/)
+
+## Contributing
+
+1. Fork it (<https://github.com/devgabrieldejesus/netflix/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
